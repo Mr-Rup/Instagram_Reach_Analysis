@@ -90,77 +90,58 @@ instagram-reach-analysis/
 ---
 
 ## 📊 Analysis Highlights
+
 📌 Source-wise Reach Distribution
-
-Home Feed: ~44% (most consistent source)
-
-Hashtags: ~34% (balanced and scalable)
-
-Explore: ~19% (high variance, viral potential)
-
-Others: ~3% (minimal impact)
+- Home Feed: ~44% (most consistent source)
+- Hashtags: ~34% (balanced and scalable)
+- Explore: ~19% (high variance, viral potential)
+- Others: ~3% (minimal impact)
 
 ---
 
 ## 📈 Engagement Insights
 
-Likes show a strong positive correlation with impressions
-
-Shares have a moderate positive effect and act as virality indicators
-
-Comments show weak or negative correlation with reach
-
-Saves, follows, and profile visits strongly influence impressions
+- Likes show a strong positive correlation with impressions
+- Shares have a moderate positive effect and act as virality indicators
+- Comments show weak or negative correlation with reach
+- Saves, follows, and profile visits strongly influence impressions
 
 ---
 
 ## 🔄 Conversion Metrics
 
-Profile visit → follow conversion rate ≈ 41%
-
-Above typical industry benchmarks
-
-Indicates strong content relevance and audience targeting
+- Profile visit → follow conversion rate ≈ 41%
+- Above typical industry benchmarks
+- Indicates strong content relevance and audience targeting
 
 ---
 
 ## 🧠 Key Insights
 
-Home feed provides stability, while Explore drives rare but massive reach
-
-Likes and shares are more reliable reach drivers than comments
-
-Hashtag strategy significantly affects discoverability
-
-High impressions do not necessarily translate to higher comments
-
-Conversion metrics provide deeper insight than raw engagement counts
+- Home feed provides stability, while Explore drives rare but massive reach
+- Likes and shares are more reliable reach drivers than comments
+- Hashtag strategy significantly affects discoverability
+- High impressions do not necessarily translate to higher comments
+- Conversion metrics provide deeper insight than raw engagement counts
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
-See the LICENSE
- file for details.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📌 Notes
 
-This project is intended for educational and portfolio purposes.
-
-Code prioritizes clarity, reproducibility, and interpretability.
-
-Possible future extensions include:
-
-Time-series analysis of reach
-
-Predictive modeling for impressions
-
-Content recommendation insights
-
-Dashboard deployment using Streamlit or Dash
+- This project is intended for educational and portfolio purposes.
+- Code prioritizes clarity, reproducibility, and interpretability.
+- Possible future extensions include:
+  - Time-series analysis of reach
+  - Predictive modeling for impressions
+  - Content recommendation insights
+  - Dashboard deployment using Streamlit or Dash
 
 🧾 Author
 
